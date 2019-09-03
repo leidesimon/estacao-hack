@@ -1,0 +1,30 @@
+a{
+    color: #fb0;
+    font-size: 20;
+    text-decoration: none;
+}
+body {
+    margin: 0xp;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h1{
+    text-align: center;
+}
+header {
+background-image: url("img/friends-img.jpeg");
+height: 500px;
+background-position: center;
+background-repeat: repeat;
+background-size: cover;
+}
+p{
+    font-family: 'Montserrat', sans-serif; 
+    padding: 100xp;
+}
+nav{
+    background-color: #7f8cbf;
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+}
